@@ -12,7 +12,7 @@ class example{
         return Math.max(first,last);
     }
     public static void main(String [] args){
-        int [] num = {-2, 6, 5, -9, 5};
+        int [] num = {-2, 6, 5, -9, 5, 8};
 
         System.out.println(maxSum(num));
     }
